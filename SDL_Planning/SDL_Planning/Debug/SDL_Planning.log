@@ -1,0 +1,37 @@
+﻿  main.cpp
+c:\users\biowned\downloads\sdl_decisions\src\main.cpp(117): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SteeringBehavior.cpp
+  ScenePlanning.cpp
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(287): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(293): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(299): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(305): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(414): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(432): warning C4018: '<': signed/unsigned mismatch
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(456): warning C4018: '<': signed/unsigned mismatch
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(460): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(461): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\utility(234): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(422): note: see reference to function template instantiation 'std::pair<Vector2D,int>::pair<Vector2D,float,0>(std::pair<Vector2D,float> &&) noexcept' being compiled
+  c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(422): note: see reference to function template instantiation 'std::pair<Vector2D,int>::pair<Vector2D,float,0>(std::pair<Vector2D,float> &&) noexcept' being compiled
+  Scene.cpp
+c:\users\biowned\downloads\sdl_decisions\src\scene.cpp(6): error C2084: function 'Scene::Scene(void)' already has a body
+  c:\users\biowned\downloads\sdl_decisions\src\scene.h(14): note: see previous definition of '{ctor}'
+c:\users\biowned\downloads\sdl_decisions\src\scene.cpp(11): error C2084: function 'Scene::~Scene(void)' already has a body
+  c:\users\biowned\downloads\sdl_decisions\src\scene.h(15): note: see previous definition of '{dtor}'
+c:\users\biowned\downloads\sdl_decisions\src\scene.cpp(24): error C2084: function 'const char *Scene::getTitle(void)' already has a body
+  c:\users\biowned\downloads\sdl_decisions\src\scene.h(18): note: see previous definition of 'getTitle'
+  SDL_SimpleApp.cpp
+  Agent.cpp
+  Generating Code...
+c:\users\biowned\downloads\sdl_decisions\src\sceneplanning.cpp(441): warning C4715: 'ScenePlanning::aStar': not all control paths return a value
+  Compiling...
+  State.cpp
+  Saloon.cpp
+  Mine.cpp
+  HOME.cpp
+  Bank.cpp
+  Generating Code...
